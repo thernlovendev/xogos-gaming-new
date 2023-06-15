@@ -1,0 +1,12 @@
+{
+    "name": "lukasthernloven/xogos-gaming",
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "sendinblue/api-v3-sdk": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lukasthernloven\\XogosGaming\\": "src/"
+        }
+    }
+}
